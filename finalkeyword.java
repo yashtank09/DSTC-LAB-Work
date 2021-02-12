@@ -1,5 +1,5 @@
 class demo{
-    final void run(){
+    void run(){
         System.out.println("Running");
     }
 }
